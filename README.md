@@ -18,7 +18,8 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 
 Here are some projects I've worked on:
 
-- [Project 1](link-to-project-1): Brief description.
+- [DBT_Diffusion](https://github.com/MrPericle/DBT_Diffusion): My thesis project focused on [insert brief description here].
+
 
 
 ## Connect with Me
