@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, I'm MrPericle! 👋
 
-<!--
-**MrPericle/MrPericle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Università degli Studi di Napoli Parthenope, in Naples. I'm passionate about artificial intelligence, particularly Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages:
+  - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg) C
+  - ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++
+  - ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java
+  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
+- Technologies: PyTorch, Keras, Scikit-learn
+
+## Projects
+
+Here are some projects I've worked on:
+
+- [Project 1](link-to-project-1): Brief description.
+
+## Connect with Me
+
+- LinkedIn: [My LinkedIn Profile]([link-to-linkedin-profile](https://www.linkedin.com/in/lorenzo-pergamo-9658b5211/))
+
+Feel free to explore my repositories and reach out to me! 😊
+
