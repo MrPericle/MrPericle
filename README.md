@@ -7,7 +7,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 ## Skills
 
 - Programming Languages:
-  ![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/32px-C_Logo.png)&nbsp;&nbsp;&nbsp;&nbsp;![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/32px-Java_programming_language_logo.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png)
+  ![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/40px-C_Logo.png)&nbsp;&nbsp;&nbsp;&nbsp;![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/40px-ISO_C%2B%2B_Logo.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/40px-Java_programming_language_logo.svg.png)&nbsp;&nbsp;&nbsp;&nbsp;![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png)
 
 
 
@@ -22,7 +22,7 @@ Here are some projects I've worked on:
 
 ## Connect with Me
 
-- LinkedIn: [My LinkedIn Profile]([link-to-linkedin-profile](https://www.linkedin.com/in/lorenzo-pergamo-9658b5211/))
+- LinkedIn: [My LinkedIn Profile]([[link-to-linkedin-profile](https://www.linkedin.com/in/lorenzo-pergamo-9658b5211/)]())
 
 Feel free to explore my repositories and reach out to me! 😊
 
