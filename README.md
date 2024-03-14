@@ -28,9 +28,9 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" style="background-color:white"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58494981-d41a9900-8183-11e9-882b-1b25d0458535.png" alt="scikit-learn" title="scikit-learn"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58495028-e82d6900-8183-11e9-887a-d5e1970d39e4.png" alt="Pandas" title="Pandas"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58495074-fe3b2980-8183-11e9-943d-4dab14dc14b1.png" alt="NumPy" title="NumPy"/></code>
+	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn"/></code>
+	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" title="Pandas"/></code>
+	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy"/></code>
 </div>
 
 ### Databases:
