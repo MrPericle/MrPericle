@@ -12,14 +12,14 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 
 
 
-- Technologies: PyTorch, Keras, Scikit-learn
+- Technologies:  
+  ![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png | width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png | width=40) &nbsp;&nbsp;&nbsp;&nbsp; ![Scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/128px-Scikit_learn_logo_small.svg.png | width=40)
 
 ## Projects
 
 Here are some projects I've worked on:
 
-- [DBT_Diffusion](https://github.com/MrPericle/DBT_Diffusion): My thesis project focused on [insert brief description here].
-
+- [DBT_Diffusion](https://github.com/MrPericle/DBT_Diffusion): A tool designed to augment Digital Breast Tomosynthesis (DBT) datasets using Denoising Diffusion Probabilistic Models.
 
 
 ## Connect with Me
