@@ -4,9 +4,6 @@
 
 I'm a Computer Science student at Università degli Studi di Napoli Parthenope, in Naples. I'm passionate about artificial intelligence, particularly Deep Learning.
 
-## Skills
-
-## Skills
 
 ## Skills
 
