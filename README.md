@@ -7,7 +7,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 ## Skills
 
 ### Programming Languages:
-<div align="center" style="background-color: #333">
+<div align="center" style="background-color: #333;">
   <code><img width="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -17,14 +17,14 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 
 
 ### Operating Systems (OS):
-<div align="center" style="background-color: #333">
+<div align="center" style="background-color: #333;">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 	<code><img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
 ### Frameworks:
-<div align="center" style="background-color: #333">
+<div align="center" style="background-color: #333;">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" style="background-color:white"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/></code>
@@ -34,7 +34,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 </div>
 
 ### Databases:
-<div align="center" style="background-color: #333">
+<div align="center" style="background-color: #333;">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
