@@ -27,7 +27,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" style="background-color:white"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58494848/a00e4680-8183-11e9-8dcf-0e31e4b95dc4.png" alt="PyTorch" title="PyTorch"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58494926-bbaa7e80-8183-11e9-80a3-25878a0c7272.png" alt="Keras" title="Keras"/></code>
+	<code><img width="45" src="[https://user-images.githubusercontent.com/25181517/58494926-bbaa7e80-8183-11e9-80a3-25878a0c7272.png](https://it.m.wikipedia.org/wiki/File:Keras_logo.svg)" alt="Keras" title="Keras"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58494981-d41a9900-8183-11e9-882b-1b25d0458535.png" alt="scikit-learn" title="scikit-learn"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58495028-e82d6900-8183-11e9-887a-d5e1970d39e4.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/58495074-fe3b2980-8183-11e9-943d-4dab14dc14b1.png" alt="NumPy" title="NumPy"/></code>
