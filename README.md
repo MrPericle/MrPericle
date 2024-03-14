@@ -20,9 +20,11 @@ Here are some projects I've worked on:
 
 - [Project 1](link-to-project-1): Brief description.
 
+
 ## Connect with Me
 
-- LinkedIn: [My LinkedIn Profile]([[link-to-linkedin-profile](https://www.linkedin.com/in/lorenzo-pergamo-9658b5211/)]())
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/lorenzo-pergamo-9658b5211/)
+
 
 Feel free to explore my repositories and reach out to me! 😊
 
