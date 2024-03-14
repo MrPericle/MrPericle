@@ -24,7 +24,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 </div>
 
 ### Frameworks:
-<div align="center">
+<div align="center" style="background-color: #333;>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" style="background-color:white"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch"/></code>
 	<code><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/></code>
@@ -34,14 +34,14 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 </div>
 
 ### Databases:
-<div align="center">
+<div align="center" style="background-color: #333;>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
 ### Editor:
-<div align = "center">
+<div align = "center" style="background-color: #333;>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 </div>
