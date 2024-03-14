@@ -39,7 +39,7 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 <div align = "center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-b
-</div>>
+</div>
 
 
 
