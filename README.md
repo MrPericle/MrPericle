@@ -7,10 +7,11 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 ## Skills
 
 - Programming Languages:
-  - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg) C
+  - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png) C
   - ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) C++
   - ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) Java
   - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
 
 - Technologies: PyTorch, Keras, Scikit-learn
 
