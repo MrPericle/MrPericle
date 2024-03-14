@@ -7,10 +7,8 @@ I'm a Computer Science student at Università degli Studi di Napoli Parthenope, 
 ## Skills
 
 - Programming Languages:
-  - ![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/64px-C_Logo.png) C
-  - ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png) C++
-  - ![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/64px-Java_programming_language_logo.svg.png) Java
-  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png) Python
+  ![C Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/32px-C_Logo.png) ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/32px-ISO_C%2B%2B_Logo.svg.png) ![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/32px-Java_programming_language_logo.svg.png) ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/32px-Python-logo-notext.svg.png)
+
 
 
 
